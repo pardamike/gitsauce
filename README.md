@@ -1,5 +1,5 @@
 # Gitsauce
-### Git cheatsheet and guide - hotsauce for your Git dev skills
+_Interactive Git cheatsheet and guide. Like hot sauce for your Git dev skills._
 
 #### Coming soon...
 * Written in React and Typescript
