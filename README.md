@@ -1,7 +1,7 @@
 # Gitsauce
-Git cheatsheet and guide - hotsauce for your Git dev skills
+### Git cheatsheet and guide - hotsauce for your Git dev skills
 
-Coming soon...
+#### Coming soon...
 * Written in React and Typescript
 * Multilingual support
 * Fill in your branches to generate an entire guide
@@ -9,6 +9,6 @@ Coming soon...
 * Simple explainations for how and why
 * Contribute and build your resume while helping others learn!
 
-Future...
+#### Future...
 * Alias and function sections with useful snippets
 * Alias file generator?
