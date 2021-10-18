@@ -7,7 +7,7 @@ Coming soon...
 * Fill in your branches to generate an entire guide
 * Copy-to-clipboard shortcuts
 * Simple explainations for how and why
-* Contribute to us an build your resume!
+* Contribute and build your resume while helping others learn!
 
 Future...
 * Alias and function sections with useful snippets
